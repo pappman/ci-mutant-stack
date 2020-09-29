@@ -1,0 +1,19 @@
+{
+  "name": "ci-mutant-stack",
+  "version": "1.0.0",
+  "description": "This demonstration covers these topics:",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\\\\\"Error: no test specified\\\\\\\" && exit 1\\\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pappman/ci-mutant-stack.git"
+  },
+  "author": "emersonpapp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pappman/ci-mutant-stack/issues"
+  },
+  "homepage": "https://github.com/pappman/ci-mutant-stack#readme"
+}

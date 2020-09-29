@@ -1,0 +1,22 @@
+{
+  "name": "mutant",
+  "version": "1.0.0",
+  "description": "Mutant DevOps",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pappman/ci-stack-mutant.git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "author": "emersonpapp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pappman/ci-stack-mutant/issues"
+  },
+  "homepage": "https://github.com/pappman/ci-stack-mutant#readme"
+}
